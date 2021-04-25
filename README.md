@@ -26,4 +26,8 @@ C | C++ | Python | HTML | CSS | java |
 
 <a href = https://www.linkedin.com/in/kritika-kumari-6601761b0><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Kritika10oct><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://ig.me/1WamoV2GUNZPfv3><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a> • </a></p>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Kritika10oct&theme=light&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritika10oct&layout=compact)
+
 
