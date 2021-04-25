@@ -24,6 +24,6 @@ C | C++ | Python | HTML | CSS | java |
 
 <p align='center'>
 
-<a href = https://www.linkedin.com/in/kritika-kumari-6601761b0><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Kritika10oct><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> <a href = https://ig.me/1WamoV2GUNZPfv3><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a> </a></p>
+<a href = https://www.linkedin.com/in/kritika-kumari-6601761b0><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Kritika10oct><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://ig.me/1WamoV2GUNZPfv3><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg height='30' weight='30'></a> • </a></p>
 
 
