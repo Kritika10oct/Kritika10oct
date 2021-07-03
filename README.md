@@ -8,15 +8,15 @@
 
 ### I'm currently
 
-- 🔭 I’m currently working on liberary Managemenet Project.
+- 🔭 I’m currently working on real life Project.
  
-- 🌱 I’m currently learning python and core java.
+- 🌱 I’m currently learning python and Advance java.
 
-- 👯 I’m looking to collaborate on java based projects.
+- 👯 I’m looking to collaborate on java and Python based projects.
 
 ### Stuff I'm really good at 
 
-C | C++ | Python | HTML | CSS | java |
+C | C++ | Python | HTML | CSS | java | 
 
 ---
 
