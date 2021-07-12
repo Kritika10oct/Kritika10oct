@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Kritika10oct&color=47ccb3)
 
-# Hi there I'm Kritika👋💻
+# Hi I'm Kritika👋💻
 ### About me
 
 
