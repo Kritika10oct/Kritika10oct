@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on real life Project.
  
-- 🌱 I’m currently learning python and Advance java.
+- 🌱 I’m currently learning Java and Hibernate.
 
-- 👯 I’m looking to collaborate on java and Python based projects.
+- 👯 I’m looking to collaborate on java ,spring boot,spring mvc,hibernate projects.
 
 ### Stuff I'm really good at 
 
